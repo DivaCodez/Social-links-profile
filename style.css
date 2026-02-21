@@ -9,6 +9,7 @@ body {
     background-color: #141414;
     font-family: 'Inter', sans-serif;
     color: white;
+    overflow-x: hidden;
 }
 
 main {
@@ -71,4 +72,5 @@ button:active {
     background-color: #C4F82A;
     box-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.2);
     color: #141414;
+
 }
